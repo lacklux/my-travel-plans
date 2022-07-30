@@ -1,7 +1,6 @@
-```
+## Sample project 
 
-# Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
-```
-"# my-travel-plan" 
+This project is just a simple html project to showcase my knowledge on github
+
+thank you.
